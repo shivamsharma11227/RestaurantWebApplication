@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently \"tsc --watch\" \"nodemon dist/app.js\"",
-    "build": "tsc",
+    "build": "npm i && tsc",
     "start": "node dist/app.js"
   },
   "keywords": [],
