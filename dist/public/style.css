@@ -94,7 +94,7 @@ body {
 
 #home {
   /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)); */
-  background-image: url("images/samosa-home.jpg");
+  background-image: url("images/home_picture.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
